@@ -1,0 +1,21 @@
+{
+    "name": "dark-gruvbox-with-italics",
+    "displayName": "Dark Gruvbox with Italics",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Gruvbox with Italics",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Gruvbox with Italics-color-theme.json"
+            }
+        ]
+    }
+}
