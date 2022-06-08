@@ -1,5 +1,7 @@
 # Dark Gruvbox with Italics
 
+![screenshot](screenshot.png "Screenshot")
+
 ## Base on
 
 - https://github.com/gitKendra/github-italics-vscode-theme

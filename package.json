@@ -1,7 +1,8 @@
 {
   "name": "dark-gruvbox-with-italics",
   "displayName": "Dark Gruvbox with Italics",
-  "description": "",
+  "description": "VSCode Color Theme",
+  "publisher": "sagaban",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.67.0"
@@ -18,5 +19,10 @@
       }
     ]
   },
-  "repository": "https://github.com/sagaban/dark-gruvbox-with-italics"
+  "repository": "https://github.com/sagaban/dark-gruvbox-with-italics",
+  "icon": "logo.png",
+  "categories": [
+    "Themes"
+  ]
+
 }
