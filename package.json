@@ -3,7 +3,7 @@
   "displayName": "Dark Gruvbox with Italics",
   "description": "VSCode Color Theme",
   "publisher": "sagaban",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.67.0"
   },

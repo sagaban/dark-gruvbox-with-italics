@@ -32,6 +32,8 @@
 		"scrollbarSlider.activeBackground": "#d79921",
 		"scrollbarSlider.hoverBackground": "#665c54",
 		"scrollbarSlider.background": "#50494599",
+		"editorStickyScroll.background": "#2a2d2e",
+    "editorStickyScrollHover.background": "#3c3836",
 		"badge.background": "#fabd2f",
 		"badge.foreground": "#1d2021",
 		"progressBar.background": "#d79921",
